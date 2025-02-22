@@ -1,2 +1,3 @@
 new branch line
 another line
+line 3
